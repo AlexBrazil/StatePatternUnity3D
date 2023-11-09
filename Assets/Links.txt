@@ -1,0 +1,6 @@
+https://unity.com/how-to/develop-modular-flexible-codebase-state-programming-pattern#:~:text=The%20state%20pattern%20is%20widely,example%20in%20the%20following%20section
+https://www.youtube.com/watch?v=dWrRb9pO8aQ
+https://www.youtube.com/watch?v=i-VkhmDfrok
+https://codeconcert.blogspot.com/2016/09/unity-3d-maquina-de-estados-parte-02.html
+
+
